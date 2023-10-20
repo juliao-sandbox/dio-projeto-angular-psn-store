@@ -1,6 +1,6 @@
 # DIO - Projeto: Recriando a Interface da PlayStation Store com Angular
 
-Clone da página da Playstation Store usando com componentes dinâmicos com Angular v14.
+Clone da página da Playstation Store usando componentes dinâmicos com Angular v14.
 
 ---
 
